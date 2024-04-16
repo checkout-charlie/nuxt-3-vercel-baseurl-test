@@ -3,6 +3,5 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     baseURL: '/subdir/',
-    buildAssetsDir: '/subdir/_nuxt/'
   },
 })
